@@ -71,3 +71,5 @@ public class practica {
         sc.close();
     }
 }
+
+
